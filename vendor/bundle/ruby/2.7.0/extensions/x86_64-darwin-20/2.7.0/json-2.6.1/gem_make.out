@@ -1,0 +1,13 @@
+current directory: /Users/sewon/Desktop/코드/react-native/GoogleMapText/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/sewon/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/sewon/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220405-33026-15p11gh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sewon/Desktop/코드/react-native/GoogleMapText/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sewon/Desktop/코드/react-native/GoogleMapText/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sewon/Desktop/코드/react-native/GoogleMapText/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
